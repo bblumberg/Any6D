@@ -21,6 +21,9 @@ h5py==3.10.0
 numba==0.59.1
 pybind11==2.12.0
 
+
+transformers==4.37.2
+
 # CV Libraries
 imageio==2.34.0
 opencv-python==4.9.0.80
@@ -92,7 +95,6 @@ tensorboard
 PyMCubes
 trimesh
 rembg
-transformers
 diffusers==0.20.2
 bitsandbytes
 imageio[ffmpeg]
