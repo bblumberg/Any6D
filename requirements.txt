@@ -92,7 +92,7 @@ tensorboard
 PyMCubes
 trimesh
 rembg
-transformers==4.45.2
+transformers
 diffusers==0.20.2
 bitsandbytes
 imageio[ffmpeg]
